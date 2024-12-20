@@ -24,7 +24,7 @@
   margin: 0px;
   padding: 0px;
   background-attachment: fixed;
-  
+
 }
 
 body {
@@ -55,11 +55,11 @@ header > p {
   color: white;
   font-family: var(--font-padrao);
   font-size: 1.2em;
-  width: 500px;
+  max-width: 600px;
   margin: auto;
   padding-left: 10px;
   padding-right: 10px;
-  text-shadow: 2px 2px 0px rgb(0, 0, 0, 514);
+  text-shadow: 2px 2px 0px rgb(0, 0, 0, 315);
   padding-bottom: 50px;
 }
 
