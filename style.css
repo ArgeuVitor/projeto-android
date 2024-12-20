@@ -23,6 +23,8 @@
 * {
   margin: 0px;
   padding: 0px;
+  background-attachment: fixed;
+  
 }
 
 body {
